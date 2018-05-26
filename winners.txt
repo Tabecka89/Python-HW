@@ -1,0 +1,3 @@
+Israel 1 1 7
+USA 1022 794 705
+Great-Britain 263 295 289
